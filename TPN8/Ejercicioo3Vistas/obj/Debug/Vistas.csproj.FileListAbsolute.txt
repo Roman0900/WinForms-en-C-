@@ -1,0 +1,260 @@
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll.config
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.pdb
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.exe
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.exe.config
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.rsp
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.exe
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.exe.config
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.rsp
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Console.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.exe
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.exe.config
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.rsp
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Entidades.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Negocio.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Datos.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Entidades.pdb
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Negocio.pdb
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Datos.pdb
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll.config
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.exe
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.exe.config
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.rsp
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.exe
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.exe.config
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.rsp
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Console.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.exe
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.exe.config
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.rsp
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Entidades.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Negocio.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Datos.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Entidades.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Negocio.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Datos.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll.config
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.exe
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.exe.config
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csc.rsp
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.exe
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.exe.config
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\csi.rsp
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Console.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.exe
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.exe.config
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\vbc.rsp
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Entidades.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Negocio.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Datos.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Entidades.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Negocio.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\bin\Datos.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.pdb
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll.config
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Ejercicioo3Vistas.pdb
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\csc.exe
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\csc.exe.config
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\csc.rsp
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\csi.exe
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\csi.exe.config
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\csi.rsp
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.AppContext.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Console.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Net.Http.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Net.Sockets.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.ValueTuple.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\vbc.exe
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\vbc.exe.config
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\vbc.rsp
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Entidades.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Negocio.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Datos.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Entidades.pdb
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Negocio.pdb
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\bin\Datos.pdb
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\obj\Debug\Vistas.csprojAssemblyReference.cache
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CoreCompileInputs.cache
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\obj\Debug\Vistas.csproj.CopyComplete
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.dll
+C:\Users\BABEL\Desktop\TP8-Grupo10\Ejercicioo3Vistas\obj\Debug\Ejercicioo3Vistas.pdb

@@ -1,0 +1,24 @@
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\bin\Debug\tpn1.exe.config
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\bin\Debug\tpn1.exe
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\bin\Debug\tpn1.pdb
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.csprojAssemblyReference.cache
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Ejercicio2.resources
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Form_Inicio.resources
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Properties.Resources.resources
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.csproj.GenerateResource.cache
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.exe
+C:\Users\Adm\Desktop\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.csprojAssemblyReference.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Ejercicio2.resources
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Form_Inicio.resources
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Properties.Resources.resources
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.csproj.GenerateResource.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.csproj.CoreCompileInputs.cache
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.exe
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Ejercicio_1.resources
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\bin\Debug\tpn1.exe.config
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\bin\Debug\tpn1.exe
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\bin\Debug\tpn1.pdb
+C:\Users\Adm\Desktop\UTN- Data In Pandemic\tn1_ejer2\tn1_ejer2\tpn1\obj\Debug\tpn1.Ejercicio_3.resources

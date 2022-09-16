@@ -1,0 +1,18 @@
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Entidades\bin\Debug\Entidades.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.dll
+C:\Users\leand\Desktop\Programacion 3\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\bin\Debug\Entidades.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.dll
+C:\Users\Espartaco\Downloads\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\bin\Debug\Entidades.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\bin\Debug\Entidades.pdb
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.dll
+C:\Users\BABEL\Desktop\BORRAR TP8\Ejercicioo3Vistas\Ejercicioo3Vistas\Entidades\obj\Debug\Entidades.pdb
